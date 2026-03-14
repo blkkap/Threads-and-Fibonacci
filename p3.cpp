@@ -1,5 +1,4 @@
-//Jaidan Dovala
-//c3500
+
 //May 7th 2022
 //Threads and Fibonacci
 
